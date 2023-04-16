@@ -80,9 +80,8 @@ $ npm start
 
 - [Steps to replicate a design with only HTML and CSS](https://devchallenges-blogs.web.app/how-to-replicate-design/)
 - [Node.js](https://nodejs.org/)
-- [Marked - a markdown parser](https://github.com/chjj/marked)
 
 ## Contact
 
-- GitHub [@your-username](https://github.com/afman42)
-- Twitter [@your-twitter](https://twitter.com/mando42_man)
+- GitHub [@afman42](https://github.com/afman42)
+- Twitter [@mando42_man](https://twitter.com/mando42_man)
