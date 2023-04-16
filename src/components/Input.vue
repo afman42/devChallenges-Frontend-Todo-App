@@ -3,7 +3,6 @@ import { useListTabStore } from "../store";
 const storeListTab = useListTabStore();
 const props = defineProps({
   tipe: String,
-  checked: Boolean,
 });
 </script>
 
