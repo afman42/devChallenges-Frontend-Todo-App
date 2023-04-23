@@ -7,6 +7,11 @@ export default {
         "raleway-sans": ["Raleway", "sans-serif"],
         "montserrat-sans": ["Montserrat", "sans-serif"],
       },
+      screens: {
+        sm: {
+          max: "576px",
+        },
+      },
     },
   },
   plugins: [],

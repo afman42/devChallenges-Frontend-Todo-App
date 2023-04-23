@@ -13,7 +13,7 @@ function updateCompleted(e, id) {
 </script>
 
 <template>
-  <div class="flex flex-col items-center w-1/2 mx-auto">
+  <div class="flex flex-col items-center lg:w-1/2 lg:mx-auto sm:mx-2">
     <h1 class="font-raleway-sans font-bold text-3xl my-4">#Todo</h1>
     <Tabs />
 
@@ -108,7 +108,7 @@ function updateCompleted(e, id) {
         <Button
           tipeButton="button"
           @click.prevent="storeListTab.removeAll()"
-          classExtra="bg-[#EB5757] flex items-center h-10 w-2/12"
+          classExtra="bg-[#EB5757] flex items-center h-10 lg:w-2/12 sm:w-4/12"
         >
           <span class="material-icons">restore_from_trash</span> delete all
         </Button>
